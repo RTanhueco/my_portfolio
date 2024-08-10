@@ -1,0 +1,163 @@
+p {
+font-family: montserrat;
+
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom right, #114779 24%, #2086bb 100%);
+  background-size: cover;
+}
+
+div
+.portfolio-logo {
+  float: left;
+  margin-top: 60px;
+  margin-left: 100px;
+  margin-right: 150px;
+}
+
+.btn-group {
+  float: right;
+  margin-top: 60px;
+  margin-right: 150px;
+  
+}
+
+.home-button {
+  color: #ffffff;
+  font-size: 14px;
+  text-decoration: none;
+  font-family:Helvetica;
+  margin-right: 50px;
+  cursor: pointer;
+  transition: background-color 0.5s;
+  vertical-align: top;
+}
+
+.home-button:hover {
+  background-color: #ffffff;
+  padding: 5px 15px;
+  border-radius: 30px;
+  color: #114779;
+
+}
+
+.home-button:active {
+  background-color: #ffffff;
+  padding: 5px 15px;
+  border-radius: 30px;
+  color: #114779;
+  border-color: #ffffff;
+
+}
+
+.about-button {
+  color: #ffffff;
+  font-size: 14px;
+  text-decoration: none;
+  font-family:Helvetica;
+  margin-right: 50px;
+  cursor: pointer;
+  transition: background-color 0.5s;
+  vertical-align: top;
+}
+
+.about-button:hover {
+  background-color: #ffffff;
+  padding: 5px 15px;
+  border-radius: 30px;
+  color: #114779;
+
+}
+
+.about-button:active {
+  background-color: #ffffff;
+  padding: 5px 15px;
+  border-radius: 30px;
+  color: #114779;
+
+}
+
+.contact-button {
+  color: #ffffff;
+  font-size: 14px;
+  text-decoration: none;
+  font-family:Helvetica;
+  transition: background-color 0.5s;
+  vertical-align: top;
+  cursor: pointer;
+}
+
+.contact-button:hover {
+  background-color: #ffffff;
+  padding: 5px 15px;
+  border-radius: 30px;
+  color: #114779;
+
+}
+
+
+
+.position {
+  color: #ffffff;
+  font-size: 100px;
+  text-decoration: none;
+  margin-left: 150px;
+  font-weight: lighter;
+  margin-top: 350px;
+  margin-bottom: 0px;
+
+}
+
+.name {
+  color: #ffffff;
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 150px;
+  font-weight: lighter;
+  top: 200px;
+    
+}
+
+.words {
+  color: #ffffff;
+  font-size: 16px;
+  text-decoration: none;
+  font-family:Helvetica;
+  margin-left: 150px;
+  width: 500px;
+  margin-top: 20px;  
+margin-bottom: 50px;
+}
+
+.designer {
+  color: #ffffff;
+  font-size: 100px;
+  text-decoration: none;
+  margin-left: 150px;
+  margin-top: 0;
+  font-weight: bold;
+
+}
+
+
+.about-shortcut {
+  color: #ffffff;
+  font-size: 16px;
+  text-decoration: none;
+  margin-left: 150px;
+  margin-top: 50px;
+  font-family:Helvetica;
+
+}
+
+.profile {
+  position: absolute;
+  width: 561px;
+  height: 561px;
+  top: 350px;
+  left: 1100px;
+  background-size: 100% 100%;
+  }
